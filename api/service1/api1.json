@@ -1,0 +1,7 @@
+{
+  "apiName": "API 1",
+  "endPoint": "/endpoint1",
+  "method": "GET",
+  "description": "This is API 1"
+  "files" : ["api1.json"]
+  }

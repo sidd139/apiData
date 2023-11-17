@@ -1,0 +1,6 @@
+{
+  "apiName": "API 3",
+  "endPoint": "/endpoint1",
+  "method": "POST",
+  "description": "This is API 3"
+}

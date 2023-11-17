@@ -1,0 +1,5 @@
+{
+  "name": "service1",
+  "displayName": "service 1",
+  "jsonFiles": ["api1.json"]
+}

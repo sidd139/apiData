@@ -1,0 +1,6 @@
+{
+  "apiName": "API 2",
+  "endPoint": "/endpoint1",
+  "method": "GET",
+  "description": "This is API 2"
+}
